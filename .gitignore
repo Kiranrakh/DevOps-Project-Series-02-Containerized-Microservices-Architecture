@@ -1,0 +1,8 @@
+# .gitignore
+*.tar
+__pycache__/
+*.log
+.env
+python.tar
+
+redis.tar
