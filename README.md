@@ -54,7 +54,7 @@ It’s part of my hands-on DevOps journey at **LinuxWorld Informatics Pvt Ltd** 
 
 ```
 
-flask-redis-userapp-dockercompose/
+
 ├── docker-compose.yml
 ├── userapp/
 │   ├── app/
