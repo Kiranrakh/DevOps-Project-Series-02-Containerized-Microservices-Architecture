@@ -86,8 +86,8 @@ It’s part of my hands-on DevOps journey at **LinuxWorld Informatics Pvt Ltd** 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/kiranrakh/flask-redis-userapp-dockercompose.git
-cd flask-redis-userapp-dockercompose
+git clone https://github.com/Kiranrakh/DevOps-Project-Series-02-Containerized-Microservices-Architecture.git
+cd DevOps-Project-Series-02-Containerized-Microservices-Architecture
 ````
 
 ### 2️⃣ Build and Start Services
